@@ -5,6 +5,7 @@ The IBM AI Workflow Capstone project involves building and deploying a time-seri
 
 ## Project Structure
 
+```
 IBM_AI_Workflow_Capstone/
 │
 ├── data/
@@ -25,6 +26,7 @@ IBM_AI_Workflow_Capstone/
 ├── .gitignore                 # Ignore unnecessary files/folders for version control
 ├── README.md                  # Project documentation
 └── Capstone_Project.ipynb     # Main script for running training and prediction
+```
 
 ## Usage
 
